@@ -8,3 +8,7 @@
 3. 手写mnist 分类（tensorflow 1.12.0）
 4. 强化学习ddpg 
 ![这里写图片描述](https://github.com/koryako/FundamentalsOfAI_book_code/raw/master/img/ddpg.jpeg)
+
+https://blog.csdn.net/kenneth_yu/article/details/78478356 原理
+
+代码 https://github.com/princewen/tensorflow_practice/blob/master/RL/Basic-DDPG/DDPG.py
