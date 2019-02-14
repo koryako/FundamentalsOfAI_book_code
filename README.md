@@ -17,10 +17,15 @@ https://blog.csdn.net/kenneth_yu/article/details/78478356 原理
 
 Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks
 
+5.自动生成电影
+  1.第一步 cgan 代码 
 
+参考
+
+https://blog.csdn.net/zhl493722771/article/details/82781988
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650740857&idx=3&sn=d77b4f1231c2a0308e61b88109530631&chksm=871adc07b06d5511d9231a50d0457053f3b17f0d1a4290796f3dc2cf47fd98a61fabcc90596d&mpshare=1&scene=1&srcid=0416V1uf2VzKNiDfYoyo8E7K#rd]
 
-自动生成电影
+
 https://arxiv.org/abs/1804.03608
 
 https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247497045&idx=2&sn=0ee27b910c192f9fc91dc0c790c8f68d&chksm=e8d04227dfa7cb31fe81cdca28e8ed7679bfbdd1b228c88382735c3e40ebd5da0fed1b1bc0d6&mpshare=1&scene=1&srcid=04168ECGz3iJLeBsmc9jA2Ua#rd]
@@ -44,7 +49,7 @@ https://arxiv.org/abs/1708.05509
 
 https://makegirlsmoe.github.io/assets/pdf/technical_report.pdf
 
-https://blog.csdn.net/zhl493722771/article/details/82781988
+
 
 https://www.cnblogs.com/punkcure/p/7873566.html
 
