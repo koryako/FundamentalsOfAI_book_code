@@ -19,7 +19,31 @@ Full-body High-resolution Anime Generation with Progressive Structure-conditiona
 
 5.自动生成电影
   1.第一步 cgan 代码 
+  2.面部三维重建、对齐 
+  VoxCeleb2  https://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf
+  DeepSDF  DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation https://arxiv.org/abs/1901.05103
+  shapnet数据集
 
+  https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]
+  2.换脸
+
+  3.超分辨率 
+  https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734197&idx=2&sn=4e205aac262da52978e2286f5bde649c&chksm=871b3a0bb06cb31d3ad73908c98d2b6ff68eef3d47e7bd96ab958b6b07159e7b1d10f8da7db5&scene=21#wechat_redirect
+
+
+6 生成代码
+第一个是由 pix2code 论文给出的公开数据集 PixCo；
+
+第二个是我们自己的数据集：PixCo-e 数据集。
+
+https://arxiv.org/pdf/1810.11536.pdf
+https://github.com/floydhub/pix2code-template
+https://github.com/tonybeltramelli/pix2code
+https://github.com/fjbriones/pix2code2
+https://github.com/tonybeltramelli/pix2code
+
+
+----
 参考
 
 https://blog.csdn.net/zhl493722771/article/details/82781988
