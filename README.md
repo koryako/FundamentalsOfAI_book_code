@@ -19,6 +19,14 @@ Full-body High-resolution Anime Generation with Progressive Structure-conditiona
 
 5.自动生成电影
   1.第一步 cgan 代码 
+   https://blog.csdn.net/zhl493722771/article/details/82781988
+   https://github.com/jayleicn/animeGAN
+   https://github.com/tdrussell/IllustrationGAN
+   https://github.com/wuga214/IMPLEMENTATION_Variational-Auto-Encoder
+   https://github.com/nashory/gans-awesome-applications
+   https://github.com/pfnet-research/sngan_projection
+  https://github.com/shaform/GirlsManifold
+   lbpcascade_animeface
   2.面部三维重建、对齐 
   VoxCeleb2  https://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf
   DeepSDF  DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation https://arxiv.org/abs/1901.05103
@@ -49,7 +57,7 @@ https://github.com/water-vapor/DeepCoder-tensorflow
 ----
 参考
 
-https://blog.csdn.net/zhl493722771/article/details/82781988
+
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650740857&idx=3&sn=d77b4f1231c2a0308e61b88109530631&chksm=871adc07b06d5511d9231a50d0457053f3b17f0d1a4290796f3dc2cf47fd98a61fabcc90596d&mpshare=1&scene=1&srcid=0416V1uf2VzKNiDfYoyo8E7K#rd]
 
 
@@ -57,10 +65,7 @@ https://arxiv.org/abs/1804.03608
 
 https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247497045&idx=2&sn=0ee27b910c192f9fc91dc0c790c8f68d&chksm=e8d04227dfa7cb31fe81cdca28e8ed7679bfbdd1b228c88382735c3e40ebd5da0fed1b1bc0d6&mpshare=1&scene=1&srcid=04168ECGz3iJLeBsmc9jA2Ua#rd]
 
-https://github.com/pfnet-research/sngan_projection
-
-
-https://github.com/shaform/GirlsManifold 
+ 
 
 InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.Xi Chen, Yan Duan, Rein Houthooft, John Schulman.2016.06.12
 
