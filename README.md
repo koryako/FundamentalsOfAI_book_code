@@ -22,6 +22,8 @@ https://blog.csdn.net/kenneth_yu/article/details/78478356 原理
 Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks
 
 5. 自动生成电影
+https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow
+
   1.第一步 cgan 代码 
    https://blog.csdn.net/zhl493722771/article/details/82781988
    https://github.com/jayleicn/animeGAN
@@ -42,6 +44,7 @@ Full-body High-resolution Anime Generation with Progressive Structure-conditiona
 
   4.超分辨率 
   https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734197&idx=2&sn=4e205aac262da52978e2286f5bde649c&chksm=871b3a0bb06cb31d3ad73908c98d2b6ff68eef3d47e7bd96ab958b6b07159e7b1d10f8da7db5&scene=21#wechat_redirect
+  https://www.pytorchtutorial.com/cvpr-ntire-2018-image-super-resolution/
   vidtovidHD +动作关键点序列
   pixtopixHD
 
@@ -113,3 +116,5 @@ base paper :recurrent model of visual attension
 11. 语音助理
 
 语音识别 （网红写的开源demo） ---chatbot ----wavenet 合成
+12. selfcar
+物体检测https://www.pytorchtutorial.com/pytorch-retinanet/
