@@ -42,7 +42,8 @@ Full-body High-resolution Anime Generation with Progressive Structure-conditiona
 
   4.超分辨率 
   https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734197&idx=2&sn=4e205aac262da52978e2286f5bde649c&chksm=871b3a0bb06cb31d3ad73908c98d2b6ff68eef3d47e7bd96ab958b6b07159e7b1d10f8da7db5&scene=21#wechat_redirect
-
+  vidtovidHD +动作关键点序列
+  pixtopixHD
 
 6. 生成代码
 第一个是由 pix2code 论文给出的公开数据集 PixCo；
@@ -106,3 +107,9 @@ https://github.com/xiaochus/mscnn
 
 base paper :recurrent model of visual attension
             Neural machine translation by jointly learning to align and translater
+
+10. 线路动态规划
+    图网络
+11. 语音助理
+
+语音识别 （网红写的开源demo） ---chatbot ----wavenet 合成
