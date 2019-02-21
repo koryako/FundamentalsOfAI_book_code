@@ -49,6 +49,7 @@ https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow
   pixtopixHD
 
 6. 生成代码
+https://www.jianshu.com/p/3ed01284473c
 第一个是由 pix2code 论文给出的公开数据集 PixCo；
 
 第二个是我们自己的数据集：PixCo-e 数据集。
