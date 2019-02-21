@@ -1,10 +1,14 @@
 # FundamentalsOfAI_book_code
 
 本代码是 人工智能基础 （高中版）的 代码 ，持续更新
+2019年趋势 ：组合模型培养泛化能力，组合数据测试潜在故障
 
+谷歌算法库，有代码和实例 
+https://research.google.con/seedbank/seed?q=Gan
 
 1. 鸢尾花分类 （tensorflow 1.10.1）
 2. 中文文本分类 （fasttext）
+nlp 库 https://github.com/stanfordnlp/stanfordnlp
 3. 手写mnist 分类（tensorflow 1.12.0）
 4. 强化学习ddpg 
 ![这里写图片描述](https://github.com/koryako/FundamentalsOfAI_book_code/raw/master/img/ddpg.jpeg)
@@ -17,7 +21,7 @@ https://blog.csdn.net/kenneth_yu/article/details/78478356 原理
 
 Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks
 
-5.自动生成电影
+5. 自动生成电影
   1.第一步 cgan 代码 
    https://blog.csdn.net/zhl493722771/article/details/82781988
    https://github.com/jayleicn/animeGAN
@@ -27,19 +31,20 @@ Full-body High-resolution Anime Generation with Progressive Structure-conditiona
    https://github.com/pfnet-research/sngan_projection
   https://github.com/shaform/GirlsManifold
    lbpcascade_animeface
+   confusion matrix
   2.面部三维重建、对齐 
   VoxCeleb2  https://gvv.mpi-inf.mpg.de/projects/FML19/paper.pdf
   DeepSDF  DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation https://arxiv.org/abs/1901.05103
   shapnet数据集
-
+  3d 人脸识别工具face3d
   https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]
-  2.换脸
+  3.换脸
 
-  3.超分辨率 
+  4.超分辨率 
   https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734197&idx=2&sn=4e205aac262da52978e2286f5bde649c&chksm=871b3a0bb06cb31d3ad73908c98d2b6ff68eef3d47e7bd96ab958b6b07159e7b1d10f8da7db5&scene=21#wechat_redirect
 
 
-6 生成代码
+6. 生成代码
 第一个是由 pix2code 论文给出的公开数据集 PixCo；
 
 第二个是我们自己的数据集：PixCo-e 数据集。
@@ -53,7 +58,7 @@ https://github.com/HiroakiMikami/deep-coder
 https://github.com/dkamm/deepcoder
 https://github.com/water-vapor/DeepCoder-tensorflow
 
-7 图网络
+7. 图网络
 ----
 参考
 
@@ -86,3 +91,18 @@ https://makegirlsmoe.github.io/assets/pdf/technical_report.pdf
 https://www.cnblogs.com/punkcure/p/7873566.html
 
 https://blog.csdn.net/stalbo/article/details/79359380
+
+
+7. 阅读理解
+
+数据集 https://ai.google.com/research/NaturalQuestions
+
+8. 人流监控
+
+https://github.com/xiaochus/mscnn 
+论文： multi-scale cnn for crowd counting
+
+9.  注意力transformer
+
+base paper :recurrent model of visual attension
+            Neural machine translation by jointly learning to align and translater
