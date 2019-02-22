@@ -2,7 +2,7 @@
 http://blog.sina.com.cn/s/blog_73dac6b50102uxwn.html
 本代码是 人工智能基础 （高中版）的 代码 ，持续更新
 2019年趋势 ：组合模型培养泛化能力，组合数据测试潜在故障
-
+https://www.helplib.com/ubuntu/article_160448
 谷歌算法库，有代码和实例 
 https://research.google.con/seedbank/seed?q=Gan
 
