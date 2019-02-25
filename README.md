@@ -1,4 +1,25 @@
 # FundamentalsOfAI_book_code
+
+基础知识 
+2019哥大应用机器学习课程
+课程主页：
+https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
+
+GitHub地址：
+https://github.com/amueller/COMS4995-s19
+
+PPT获取地址：
+https://amueller.github.io/COMS4995-s19/slides/
+
+附送全套课程视频集合，此地址为油管原版，可选择自动英文字幕，需要科学前往：
+
+https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
+
+可喜可贺，爱可可老师已将原视频打包，逐一搬运到B站了：
+
+https://www.bilibili.com/video/av41655158/
+
+课程还在持续更新中，赶紧上车。
 http://blog.sina.com.cn/s/blog_73dac6b50102uxwn.html
 本代码是 人工智能基础 （高中版）的 代码 ，持续更新
 2019年趋势 ：组合模型培养泛化能力，组合数据测试潜在故障
@@ -25,6 +46,12 @@ https://blog.csdn.net/kenneth_yu/article/details/78478356 原理
 
 Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks
 serpent.ai
+
+ ppo 数学公式 
+ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650675168&idx=1&sn=739bf1e2f7d72494469620d9216b4dd7&chksm=bec22a9389b5a385dc20b695eb26cbad62239f0b14be0bcfcf8cb0c24a95913cb7cae1cf1460&mpshare=1&scene=1&srcid=#rd]
+
+ ppo 控制索尼可
+ https://github.com/simoninithomas/Deep_reinforcement_learning_Course/tree/master/PPO%20with%20Sonic%20the%20Hedgehog
 5. 自动生成电影
 https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow
 https://www.jianshu.com/p/5dc2486c70cf
@@ -136,3 +163,17 @@ https://mp.weixin.qq.com/s?__biz=MzA5MDMwMTIyNQ==&mid=2649292846&idx=7&sn=209580
 14. 元学习
 
 https://github.com/openai/supervised-reptile
+
+
+15. pytorch 版本 bert GPT-2
+
+https://github.com/huggingface/pytorch-pretrained-BERT
+
+比如，教你给NLP任务加速100倍：
+https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced
+
+用PyTorch实现了从语言中识别情绪的DeepMoji模型：
+https://github.com/huggingface/torchMoji
+
+还用PyTorch实现了OpenAI优化过的Transformer模型：
+https://github.com/huggingface/pytorch-openai-transformer-lm
