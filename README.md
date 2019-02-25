@@ -50,6 +50,10 @@ serpent.ai
  ppo 数学公式 
  https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650675168&idx=1&sn=739bf1e2f7d72494469620d9216b4dd7&chksm=bec22a9389b5a385dc20b695eb26cbad62239f0b14be0bcfcf8cb0c24a95913cb7cae1cf1460&mpshare=1&scene=1&srcid=#rd]
 
+ https://github.com/simoninithomas/Deep_reinforcement_learning_Course/blob/master/PPO%20with%20Sonic%20the%20Hedgehog/model.py
+
+ https://blog.csdn.net/jinzhuojun/article/details/80417179
+
  ppo 控制索尼可
  https://github.com/simoninithomas/Deep_reinforcement_learning_Course/tree/master/PPO%20with%20Sonic%20the%20Hedgehog
 5. 自动生成电影
