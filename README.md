@@ -186,25 +186,32 @@ https://github.com/huggingface/torchMoji
 https://github.com/huggingface/pytorch-openai-transformer-lm
 
 16. 元学习
+https://github.com/floodsung/Meta-Learning-Papers
 
-论文地址：https://arxiv.org/abs/1703.03400
+a. 论文地址：https://arxiv.org/abs/1703.03400
 
 代码地址：https://github.com/cbfinn/maml
 
-https://github.com/openai/mlsh
+b. https://github.com/openai/mlsh
 
-https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf 
+c. https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf 
 https://github.com/openai/supervised-reptile
 
-https://github.com/brendenlake/omniglot
+d. https://github.com/brendenlake/omniglot
 
-EPG 与之前为强化学习智能体设计适合的奖励函数的研究（Genetic Programming for Reward Function Search 等）有关
 
-OPTIMIZATION AS A MODEL FOR
-FEW-SHOT LEARNING
+
+e. OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING 使用lstm 进行元参数更新
+https://github.com/markdtw/meta-learning-lstm-pytorch
+https://github.com/gitabcworld/FewShotLearning
+
+
+f. EPG 与之前为强化学习智能体设计适合的奖励函数的研究（Genetic Programming for Reward Function Search 等）有关
 论文地址：https://storage.googleapis.com/epg-blog-data/epg_2.pdf
 
 代码地址：https://github.com/openai/EPG
+
+------
 论文：On the convergence of Adam and Beyond
 
 论文地址：https://openreview.net/pdf?id=ryQu7f-RZ
