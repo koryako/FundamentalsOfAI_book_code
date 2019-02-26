@@ -149,7 +149,10 @@ base paper :recurrent model of visual attension
             Neural machine translation by jointly learning to align and translater
 
 10. 线路动态规划
-    图网络
+    图网络 https://www.jiqizhixin.com/articles/2018-11-27-12
+
+
+
 11. 语音助理
 
 语音识别 （网红写的开源demo） ---chatbot ----wavenet 合成
@@ -181,3 +184,49 @@ https://github.com/huggingface/torchMoji
 
 还用PyTorch实现了OpenAI优化过的Transformer模型：
 https://github.com/huggingface/pytorch-openai-transformer-lm
+
+16. 元学习
+
+论文地址：https://arxiv.org/abs/1703.03400
+
+代码地址：https://github.com/cbfinn/maml
+
+https://github.com/openai/mlsh
+
+https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf 
+https://github.com/openai/supervised-reptile
+
+https://github.com/brendenlake/omniglot
+
+EPG 与之前为强化学习智能体设计适合的奖励函数的研究（Genetic Programming for Reward Function Search 等）有关
+
+OPTIMIZATION AS A MODEL FOR
+FEW-SHOT LEARNING
+论文地址：https://storage.googleapis.com/epg-blog-data/epg_2.pdf
+
+代码地址：https://github.com/openai/EPG
+论文：On the convergence of Adam and Beyond
+
+论文地址：https://openreview.net/pdf?id=ryQu7f-RZ
+
+机器之心文章：超越 Adam，从适应性学习率家族出发解读 ICLR 2018 高分论文
+
+
+
+论文：Spherical CNNs
+
+论文地址：https://openreview.net/pdf?id=Hkbd5xZRb
+
+机器之心文章：ICLR 2018 | 阿姆斯特丹大学论文提出球面 CNN：可用于 3D 模型识别和雾化能量
+
+
+
+论文：Continuous adaptation via meta-learning in nonstationary and competitive environments
+
+论文地址：https://openreview.net/pdf?id=Sk2u1g-0-
+
+https://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=2652692454&idx=1&sn=727f1dab3e0392ed480feba78a001f41&chksm=8123065fb6548f499bcaa4dc99915a9bc34ccfe284d8086108754007808091cafd83560c14fa&mpshare=1&scene=1&srcid=0727GmK03hE3dnyld4jYfgub#rd]
+17. 脉冲神经网络
+
+http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons
+
