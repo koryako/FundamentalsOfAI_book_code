@@ -237,3 +237,11 @@ https://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=2652692454&idx=1&sn=727f1d
 
 http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons
 
+
+虚拟dom
+https://github.com/snabbdom/snabbdom
+https://blog.csdn.net/m6i37jk/article/details/78140159
+https://blog.csdn.net/u010692018/article/details/78799335/
+
+双向绑定
+https://blog.csdn.net/qq_18956907/article/details/80047905
