@@ -246,7 +246,7 @@ https://blog.csdn.net/u010692018/article/details/78799335/
 双向绑定
 https://blog.csdn.net/qq_18956907/article/details/80047905
 
-
+http://www.html-js.com/article/Study-of-twoway-data-binding-JavaScript-talk-about-JavaScript-every-day
 行人重识别常用 Large-scale 数据集
 
 DukeMTMC-reID
