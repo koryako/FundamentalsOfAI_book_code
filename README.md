@@ -156,6 +156,21 @@ base paper :recurrent model of visual attension
 11. 语音助理
 
 语音识别 （网红写的开源demo） ---chatbot ----wavenet 合成
+https://github.com/wangkenpu/rsrgan
+https://github.com/nl8590687/ASRT_SpeechRecognition
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733110&idx=4&sn=e8636eed546644cf7b14d64386d4a0bf&chksm=871b3e48b06cb75efe377b1e1254335dc0b5280e464cceaea93fa86652e9982d43350cbba414&mpshare=1&scene=1&srcid=11136d4rKoVwd8R09nc9wZJ7#rd]
+https://github.com/mozilla/DeepSpeech
+https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652010075&idx=5&sn=41f41f26079063dd065e47d77ce38616&chksm=f12102aac6568bbc8c4ff43ee9f8df797606d21621efe211c5c14a5dbb9bb28ec87aea1fe3bb&mpshare=1&scene=1&srcid=0107DJlvMowSKl1zJ4bhiMC4#rd]
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650740583&idx=2&sn=9687798dbfe1375a4342125cdee28224&chksm=871ad319b06d5a0fa58fa24859ab0ab8ba5b8d300c615119c4bab6a8d4ddc6a73d379da7a1c3&mpshare=1&scene=1&srcid=0411p52u2If9ANJhiwyzJpjq#rd]
+https://github.com/nl8590687/ASRT_SpeechRecognition
+https://blog.csdn.net/weixin_36071429/article/details/86554065
+https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247493108&idx=3&sn=2c71a4cf1cbf8b0b9cdcbe82223712e1&chksm=ec545273db23db65ffecd8e20b6ff5a35eda062c6703634cf1b9ca85d83f8f4be87d1ae3292b&mpshare=1&scene=1&srcid=1108MCABfnGf5W4mdEfuNb6l#rd]
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650673439&idx=1&sn=24ef6c9ad72db854aed3447cb85c7589&chksm=bec22c6c89b5a57aca0d2e482b439ca58729114149b106b37d5cd34242d4b78182a869854994&mpshare=1&scene=1&srcid=0929nMKmxogJQwlmKjNblhTL#rd]
+https://github.com/thewintersun/tensorflowbook
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668564&idx=2&sn=e14cada519e8f7457a6f998b25a5cef8&chksm=bec1c36789b64a71fa344259183dbeee5c9461955fe0d62ede3189d2850b870c5164d5a330d3&mpshare=1&scene=1&srcid=1217GoMauag4Ak89xRxmyCkK#rd]
+
+
+
 12. selfcar
 物体检测https://www.pytorchtutorial.com/pytorch-retinanet/
 
@@ -269,3 +284,9 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247495091&idx=4&sn=d2b743
 
 
 https://blog.csdn.net/chanmufeng/article/details/82955730
+
+
+
+
+
+
