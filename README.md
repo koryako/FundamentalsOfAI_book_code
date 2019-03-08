@@ -37,6 +37,7 @@ nlp 库 https://github.com/stanfordnlp/stanfordnlp
 3. 手写mnist 分类（tensorflow 1.12.0）
 4. 强化学习ddpg 
 ![这里写图片描述](https://github.com/koryako/FundamentalsOfAI_book_code/raw/master/img/ddpg.jpeg)
+5. 中文语音识别
 
 https://blog.csdn.net/kenneth_yu/article/details/78478356 原理
 
