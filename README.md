@@ -170,7 +170,7 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650673439&idx=1&sn=24ef6c
 https://github.com/thewintersun/tensorflowbook
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668564&idx=2&sn=e14cada519e8f7457a6f998b25a5cef8&chksm=bec1c36789b64a71fa344259183dbeee5c9461955fe0d62ede3189d2850b870c5164d5a330d3&mpshare=1&scene=1&srcid=1217GoMauag4Ak89xRxmyCkK#rd]
 
-
+https://github.com/KeithYin/simple_speech_recog
 
 12. selfcar
 物体检测https://www.pytorchtutorial.com/pytorch-retinanet/
