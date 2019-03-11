@@ -172,6 +172,15 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668564&idx=2&sn=e14cad
 
 https://github.com/KeithYin/simple_speech_recog
 
+https://www.tensorflow.org/api_docs/python/tf/nn/ctc_loss
+https://www.tensorflow.org/api_docs/python/tf/nn/ctc_greedy_decoder
+https://www.tensorflow.org/api_docs/python/tf/nn/ctc_beam_search_decoder
+http://stackoverflow.com/questions/38059247/using-tensorflows-connectionist-temporal-classification-ctc-implementation
+https://www.tensorflow.org/versions/r0.10/api_docs/python/nn/conectionist_temporal_classification__ctc_
+https://blog.csdn.net/u012436149/article/details/71179314 今晚看
+
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668564&idx=2&sn=e14cada519e8f7457a6f998b25a5cef8&chksm=bec1c36789b64a71fa344259183dbeee5c9461955fe0d62ede3189d2850b870c5164d5a330d3&mpshare=1&scene=1&srcid=1217GoMauag4Ak89xRxmyCkK#rd]
+
 12. selfcar
 物体检测https://www.pytorchtutorial.com/pytorch-retinanet/
 
