@@ -88,9 +88,9 @@ https://www.jianshu.com/p/5dc2486c70cf
 6. 生成代码
 https://www.jianshu.com/p/3ed01284473c
 第一个是由 pix2code 论文给出的公开数据集 PixCo；
-
+https://github.com/roertech/open_cv_ui2code
 第二个是我们自己的数据集：PixCo-e 数据集。
-
+https://github.com/roertech/UI2code
 https://arxiv.org/pdf/1810.11536.pdf
 https://github.com/floydhub/pix2code-template
 https://github.com/tonybeltramelli/pix2code
@@ -135,7 +135,7 @@ https://www.cnblogs.com/punkcure/p/7873566.html
 https://blog.csdn.net/stalbo/article/details/79359380
 
 
-7. 阅读理解
+7. 阅读理解 QA 
 
 数据集 https://ai.google.com/research/NaturalQuestions
 
@@ -180,6 +180,8 @@ https://www.tensorflow.org/versions/r0.10/api_docs/python/nn/conectionist_tempor
 https://blog.csdn.net/u012436149/article/details/71179314 今晚看
 
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668564&idx=2&sn=e14cada519e8f7457a6f998b25a5cef8&chksm=bec1c36789b64a71fa344259183dbeee5c9461955fe0d62ede3189d2850b870c5164d5a330d3&mpshare=1&scene=1&srcid=1217GoMauag4Ak89xRxmyCkK#rd]
+
+语音数据增强   https://github.com/jiaaro/pydub
 
 12. selfcar
 物体检测https://www.pytorchtutorial.com/pytorch-retinanet/
@@ -294,6 +296,20 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247495091&idx=4&sn=d2b743
 
 
 https://blog.csdn.net/chanmufeng/article/details/82955730
+
+
+地址分词  http://www.hankcs.com/nlp/word2vec.html。
+https://github.com/fssqawj/SentenceSim/
+
+https://github.com/RaRe-Technologies/gensim
+https://dumps.wikimedia.org/
+https://code.google.com/archive/p/word2vec/
+
+https://github.com/huyingxi/wechaty_selfie
+https://github.com/fxsjy/jieba
+
+http://www.hankcs.com/nlp/word2vec.html。
+https://github.com/huyingxi/Synonyms/issues/64
 
 
 
