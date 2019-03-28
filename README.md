@@ -100,6 +100,13 @@ https://github.com/HiroakiMikami/deep-coder
 https://github.com/dkamm/deepcoder
 https://github.com/water-vapor/DeepCoder-tensorflow
 
+https://github.com/pranayranjan/MobilenetV2_SSD_Keras
+https://github.com/xiaochus/MobileNetV2
+https://github.com/bruceyang2012/Face-detection-with-mobilenet-ssd
+https://github.com/tensorflow/models/tree/master/research/object_detection  tensorflow 官方
+https://www.jianshu.com/p/1cf3b543afff?utm_source=oschina-app Python 3 & Keras 实现Mobilenet v2
+https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py  keras 官方
+
 7. 图网络
 ----
 参考
