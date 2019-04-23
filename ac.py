@@ -45,7 +45,7 @@ class Actor(object):
             self.exp_v = tf.reduce_mean(log_prob * self.q)  # advantage (TD_error) guided loss
 
         with tf.variable_scope('train'):
-            self.train_op = tf.train.AdamOptimizer(lr).minimize(-self.exp_v)  # minimize(-exp_v) = maximize(exp_v)
+            self.train_op = tf.train.AdamOptimizer(lr).minimize(-self.exp_v)  # minimize(-exp_v) = maximize(exp_v)#PG的思想是采用上面的函数一步步做梯度上升（等价于负方向的梯度下降）使智能体在行动中获取更高的回报奖励。
 
     def learn(self, s, a, q):
         s = s[np.newaxis, :]

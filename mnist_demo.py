@@ -1,6 +1,6 @@
 import tensorflow as tf
 import input_data
-mnist = input_data.read_data_sets("alldata/MNIST_data/", one_hot=True)
+mnist = input_data.read_data_sets("datasets/MNIST_data/", one_hot=True)
 
 xs=tf.placeholder(tf.float32,[None,784])
 ys=tf.placeholder(tf.float32,[None,10])
@@ -14,7 +14,7 @@ def add_layer(inputs,in_size,out_size,activation_function=None,):
    else:
       outputs=activation_function(Wx_plus_b,)
    return outputs
-
+#计算精度
 def compute_accuracy(v_xs,v_ys):
    global prediction
    y_pre=sess.run(prediction,feed_dict={xs:v_xs})
@@ -34,4 +34,4 @@ for i in range(1000):
     sess.run(train_step,feed_dict={xs:batch_xs,ys:batch_ys})
     if i % 50==0:
         print(compute_accuracy(mnist.test.images,mnist.test.labels))
-"""        
+        
