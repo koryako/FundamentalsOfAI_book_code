@@ -99,9 +99,11 @@ https://github.com/tonybeltramelli/pix2code
 https://github.com/HiroakiMikami/deep-coder
 https://github.com/dkamm/deepcoder
 https://github.com/water-vapor/DeepCoder-tensorflow
-
+https://github.com/ashnkumar/sketch-code 重要
 https://github.com/pranayranjan/MobilenetV2_SSD_Keras
 https://github.com/xiaochus/MobileNetV2
+https://github.com/microsoft/ailab
+https://github.com/microsoft/ailab/tree/master/Sketch2Code
 https://github.com/bruceyang2012/Face-detection-with-mobilenet-ssd
 https://github.com/tensorflow/models/tree/master/research/object_detection  tensorflow 官方
 https://www.jianshu.com/p/1cf3b543afff?utm_source=oschina-app Python 3 & Keras 实现Mobilenet v2
@@ -146,6 +148,8 @@ https://blog.csdn.net/stalbo/article/details/79359380
 7. 阅读理解 QA 
 
 数据集 https://ai.google.com/research/NaturalQuestions
+
+ReasoNet: Learning to Stop Reading in Machine Comprehension  https://arxiv.org/pdf/1609.05284.pdf
 
 8. 人流监控
 
@@ -273,7 +277,7 @@ https://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=2652692454&idx=1&sn=727f1d
 http://papers.nips.cc/paper/7359-long-short-term-memory-and-learning-to-learn-in-networks-of-spiking-neurons
 
 
-虚拟dom
+18. 虚拟dom
 https://github.com/snabbdom/snabbdom
 https://blog.csdn.net/m6i37jk/article/details/78140159
 https://blog.csdn.net/u010692018/article/details/78799335/
@@ -306,7 +310,7 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247495091&idx=4&sn=d2b743
 https://blog.csdn.net/chanmufeng/article/details/82955730
 
 
-地址分词  http://www.hankcs.com/nlp/word2vec.html。
+19. 地址分词  http://www.hankcs.com/nlp/word2vec.html。
 https://github.com/fssqawj/SentenceSim/
 
 https://github.com/RaRe-Technologies/gensim
@@ -324,3 +328,30 @@ https://github.com/huyingxi/Synonyms/issues/64
 
 
 
+验证码 生成
+
+https://github.com/machine-lv
+
+https://github.com/machine-lv/Production-verification-code
+
+
+GPT-2 transformer
+
+openai/blog/musenet
+
+microsoft/neuron block
+
+20. 视频追踪
+
+https://github.com/foolwood/SiamMask
+https://github.com/PengBoXiangShang/SiamRPN_plus_plus_PyTorch
+
+
+
+21. 视频模拟器
+
+https://nv-tlabs.github.io/meta-sim/
+
+22. 对抗攻击
+
+https://gitlab.com/EAVISE/adversarial-yolo
