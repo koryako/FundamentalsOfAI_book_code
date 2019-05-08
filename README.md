@@ -85,6 +85,8 @@ https://www.jianshu.com/p/5dc2486c70cf
   vidtovidHD +动作关键点序列
   pixtopixHD
 
+  psgan 渐近式gan
+
 6. 生成代码
 https://www.jianshu.com/p/3ed01284473c
 第一个是由 pix2code 论文给出的公开数据集 PixCo；
@@ -355,3 +357,26 @@ https://nv-tlabs.github.io/meta-sim/
 22. 对抗攻击
 
 https://gitlab.com/EAVISE/adversarial-yolo
+
+23. 剪吱
+
+https://github.com/google-research/lottery-ticket-hypothesis
+
+24. automl  block
+
+RMSProp
+factorized 7X7
+BATCHNorm
+标签平滑 正则
+
+
+25. 自动驾驶
+
+calar 数据
+物体距离检测+scnn 道路检测 +ppo+ cma-es
+
+26. unit3d avater 动画骨骼系统
+
+27. 推荐算法开源框架
+
+https://github.com/alibaba/x-deeplearning.git
