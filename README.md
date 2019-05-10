@@ -152,6 +152,7 @@ https://blog.csdn.net/stalbo/article/details/79359380
 数据集 https://ai.google.com/research/NaturalQuestions
 
 ReasoNet: Learning to Stop Reading in Machine Comprehension  https://arxiv.org/pdf/1609.05284.pdf
+https://arxiv.org/pdf/1609.05284.pdf
 
 8. 人流监控
 
@@ -380,3 +381,7 @@ calar 数据
 27. 推荐算法开源框架
 
 https://github.com/alibaba/x-deeplearning.git
+
+fire 结构
+
+https://d4mucfpksywv.cloudfront.net/research-covers/openai-five/network-architecture.pdf
