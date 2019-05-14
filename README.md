@@ -385,3 +385,67 @@ https://github.com/alibaba/x-deeplearning.git
 fire 结构
 
 https://d4mucfpksywv.cloudfront.net/research-covers/openai-five/network-architecture.pdf
+
+
+3d重建
+
+1、Hierarchical Surface Prediction for 3D Object Reconstruction（Christian Häne等） https://arxiv.org/pdf/1704.00710.pdf
+
+2、3D-R2N2: A Unified Approach for Single and Multi-view 3D Object  Reconstruction（Choy等） https://arxiv.org/pdf/1604.00449.pdf
+
+3、Learning a Predictable and Generative Vector Representation for Objects（Girdhar等） https://arxiv.org/pdf/1603.08637.pdf
+
+4、ShapeNet: An Information-Rich 3D Model Repository（关于ShapeNet数据集的论文） https://arxiv.org/pdf/1512.03012.pdf
+
+
+Multi-view Supervision for Single-view Reconstruction
+
+via Differentiable Ray Consistency. S. Tulsiani, T. Zhou, A. A. Efros, J. Malik. In CVPR, 2017：https://shubhtuls.github.io/drc/
+
+
+
+Unsupervised Learning of Depth and Ego-Motion from Video. T. Zhou, M. Brown, N. Snavely, D. Lowe. In CVPR, 2017：https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/
+
+
+
+近期其他多视角 3D 监督预测方法的研究：
+
+
+
+Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. R. Garg, B. G. Vijay Kumar, G. Carneiro, I. Reid. In ECCV, 2016：https://arxiv.org/abs/1603.04992
+
+
+
+Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision. X. Yan, J. Yang, E. Yumer, Y. Guo, H. Lee. In NIPS, 2016：https://sites.google.com/site/skywalkeryxc/perspective_transformer_nets
+
+
+
+Unsupervised Learning of 3D Structure from Images. D. J. Rezende, S. M. Ali Eslami, S. Mohamed, P. Battaglia, M. Jaderberg, N. Heess. In NIPS, 2016：https://arxiv.org/abs/1607.00662
+
+
+
+3D Shape Induction from 2D Views of Multiple Objects. M. Gadelha, S. Maji, R. Wang. arXiv preprint, 2016：http://mgadelha.me/home/prgan/index.html
+
+
+
+Unsupervised Monocular Depth Estimation
+
+with Left-Right Consistency. C. Godard, O. M. Aodha, G. J. Brostow. In CVPR, 2017：http://visual.cs.ucl.ac.uk/pubs/monoDepth/
+
+
+https://blog.csdn.net/kevin_cc98/article/details/79582906
+
+
+https://blog.csdn.net/u014679795/article/details/53467264
+
+
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650674986&idx=1&sn=ac5dd2543df4acedf2bb0b54f5b0968f&chksm=bec22a5989b5a34f677f4e80853c9395af089c88e71f1332678f711a54d5b6feb8a8f9df98c0&mpshare=1&scene=1&srcid=0119ip9MkiWgfDMxMX99VDrX#rd]
+
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755443&idx=5&sn=9383d92eb44d098f06e0a7e55d62df13&chksm=871a950db06d1c1be9c2d669029a37f62e57b318a6984e1bc9f41294a1ca8c068a55182b0d0b&mpshare=1&scene=1&srcid=0111BvClY9Cyiz0ekn34J2q5#rd]
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728901&idx=4&sn=ba4b89646fbbb143ae08744f084ed428&chksm=871b2dbbb06ca4ad54096f29636be4d2ebbc8e2004b69d0aa7c063380d524a057ec682d82527&mpshare=1&scene=1&srcid=0718WC0s1syBxYjWBUIuePp1#rd]
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727250&idx=2&sn=2cedf785cd4c67837c599c5251c8e4ea&chksm=871b272cb06cae3a9d6718392aa6dbd7c6854f730d564b377e64c66fb208da3a681ec75339cd&mpshare=1&scene=1&srcid=06045lSWi3zw78o72JBjYBbE#rd]
