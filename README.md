@@ -448,4 +448,11 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728901&idx=4&sn=ba4b89
 
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]
 
+
+专栏 | 手机端运行卷积神经网络实践：基于TensorFlow和OpenCV实现文档检测功能
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727250&idx=2&sn=2cedf785cd4c67837c599c5251c8e4ea&chksm=871b272cb06cae3a9d6718392aa6dbd7c6854f730d564b377e64c66fb208da3a681ec75339cd&mpshare=1&scene=1&srcid=06045lSWi3zw78o72JBjYBbE#rd]
+
+
+深度 | 2017CV技术报告：从3D物体重建到人体姿态估计
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]

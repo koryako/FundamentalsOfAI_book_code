@@ -183,3 +183,88 @@ for i in range(200):
 print("test accuracy %g"%accuracy.eval(session=sess,feed_dict={xs: mnist.test.images, ys: mnist.test.labels, keep_prob: 1.0}))  
 
 
+def hed_net(inputs, batch_size):
+
+    # ref https://github.com/s9xie/hed/blob/master/examples/hed/train_val.prototxt
+
+    with tf.variable_scope('hed', 'hed', [inputs]):
+
+        with slim.arg_scope([slim.conv2d, slim.fully_connected],
+
+                        activation_fn=tf.nn.relu,
+
+                        weights_initializer=tf.truncated_normal_initializer(0.0, 0.01),
+
+                        weights_regularizer=slim.l2_regularizer(0.0005)):
+
+            # vgg16 conv && max_pool layers
+
+            net = slim.repeat(inputs, 2, slim.conv2d, 12, [3, 3], scope='conv1')
+
+            dsn1 = net
+
+            net = slim.max_pool2d(net, [2, 2], scope='pool1')
+
+            net = slim.repeat(net, 2, slim.conv2d, 24, [3, 3], scope='conv2')
+
+            dsn2 = net
+
+            net = slim.max_pool2d(net, [2, 2], scope='pool2')
+
+            net = slim.repeat(net, 3, slim.conv2d, 48, [3, 3], scope='conv3')
+
+            dsn3 = net
+
+            net = slim.max_pool2d(net, [2, 2], scope='pool3')
+
+            net = slim.repeat(net, 3, slim.conv2d, 96, [3, 3], scope='conv4')
+
+            dsn4 = net
+
+            net = slim.max_pool2d(net, [2, 2], scope='pool4')
+
+            net = slim.repeat(net, 3, slim.conv2d, 192, [3, 3], scope='conv5')
+
+            dsn5 = net
+
+            # net = slim.max_pool2d(net, [2, 2], scope='pool5') # no need this pool layer
+
+            # dsn layers
+
+            dsn1 = slim.conv2d(dsn1, 1, [1, 1], scope='dsn1')
+
+            # no need deconv for dsn1
+
+            dsn2 = slim.conv2d(dsn2, 1, [1, 1], scope='dsn2')
+
+            deconv_shape = tf.pack([batch_size, const.image_height, const.image_width, 1])
+
+            dsn2 = deconv_mobile_version(dsn2, 2, deconv_shape) # deconv_mobile_version can work on mobile
+
+            dsn3 = slim.conv2d(dsn3, 1, [1, 1], scope='dsn3')
+
+            deconv_shape = tf.pack([batch_size, const.image_height, const.image_width, 1])
+
+            dsn3 = deconv_mobile_version(dsn3, 4, deconv_shape)
+
+            dsn4 = slim.conv2d(dsn4, 1, [1, 1], scope='dsn4')
+
+            deconv_shape = tf.pack([batch_size, const.image_height, const.image_width, 1])
+
+            dsn4 = deconv_mobile_version(dsn4, 8, deconv_shape)
+
+            dsn5 = slim.conv2d(dsn5, 1, [1, 1], scope='dsn5')
+
+            deconv_shape = tf.pack([batch_size, const.image_height, const.image_width, 1])
+
+            dsn5 = deconv_mobile_version(dsn5, 16, deconv_shape)
+
+            # dsn fuse
+
+            dsn_fuse = tf.concat(3, [dsn1, dsn2, dsn3, dsn4, dsn5])
+
+            dsn_fuse = tf.reshape(dsn_fuse, [batch_size, const.image_height, const.image_width, 5]) #without this, will get error: ValueError: Number of in_channels must be known.
+
+            dsn_fuse = slim.conv2d(dsn_fuse, 1, [1, 1], scope='dsn_fuse')
+
+    return dsn_fuse, dsn1, dsn2, dsn3, dsn4, dsn5
