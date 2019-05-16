@@ -484,3 +484,7 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=1&sn=be4cd4
 文字的相似度 
 
 https://blog.csdn.net/miner_zhu/article/details/81566456
+
+
+neat： http://www.cnblogs.com/Leo_wl/p/5852010.html
+http://www.tuicool.com/articles/FvUriaf
