@@ -387,7 +387,7 @@ fire 结构
 https://d4mucfpksywv.cloudfront.net/research-covers/openai-five/network-architecture.pdf
 
 
-3d重建
+28. 3d重建
 
 1、Hierarchical Surface Prediction for 3D Object Reconstruction（Christian Häne等） https://arxiv.org/pdf/1704.00710.pdf
 
@@ -444,9 +444,9 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650674986&idx=1&sn=ac5dd2
 
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755443&idx=5&sn=9383d92eb44d098f06e0a7e55d62df13&chksm=871a950db06d1c1be9c2d669029a37f62e57b318a6984e1bc9f41294a1ca8c068a55182b0d0b&mpshare=1&scene=1&srcid=0111BvClY9Cyiz0ekn34J2q5#rd]
 
+学界 | 用单张图片推理场景结构：UC Berkeley提出3D景深联合学习方法
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728901&idx=4&sn=ba4b89646fbbb143ae08744f084ed428&chksm=871b2dbbb06ca4ad54096f29636be4d2ebbc8e2004b69d0aa7c063380d524a057ec682d82527&mpshare=1&scene=1&srcid=0718WC0s1syBxYjWBUIuePp1#rd]
 
-https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]
 
 
 专栏 | 手机端运行卷积神经网络实践：基于TensorFlow和OpenCV实现文档检测功能
@@ -456,3 +456,31 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727250&idx=2&sn=2cedf7
 深度 | 2017CV技术报告：从3D物体重建到人体姿态估计
 
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=2&sn=5e1e47847ceb48cb7b5482bef9b96c3a&chksm=871b3bf9b06cb2ef1fa8e17885334d56648103615c39bae92c3bb711ebbaf9facc8c1f8a09a2&mpshare=1&scene=1&srcid=1219fpAfjA9nOFbOf8TIQZ7Q#rd]
+
+
+29. 分布式
+
+大型模型与稀疏的激活（Large model, butsparsely activated），
+单一模型用于多重任务（Single model to solve many tasks），
+以及通过大型模型动态学习和发展路径。
+
+
+2012年，提出了一个深度网络的分布并行训练的框架DistBelief，并在该框架中发现了一些有效的分布优化策略（参加论文：Large ScaleDistributed Deep Networks）。提出了一种非监督的猫脸识别模型（参见论文：BuildingHigh-level Features Using Large Scale Unsupervised Learning）。
+
+2013年，开源了词向量（word2vec）模型。（参见论文：Distributed Representationsof Words and Phrases and their Compositionality）
+
+2014年，提出了序列到序列的神经网络学习（sequence to sequence learning）（参见论文：Sequence toSequence Learning with Neural Networks），也可用于生成图片标题（参见论文：Show andTell: A Neural Image Caption Generator）。
+
+2015年，开源了Inception，一种新的图像分类卷积神经网络模型（参见链接：https://github.com/tensorflow/models/blob/master/slim/README.md）。推出了一款图像识别工具Deep Dream（参见链接：https://deepdreamgenerator.com/generator-style）。开源了TensorFlow（参加链接：https://www.tensorflow.org/）。
+
+2016年，提出了神经网络机器翻译系统（neural translation）（参见论文：Google’s Neural Machine Translation System: Bridging the Gap betweenHuman and Machine Translation）。医学图像的研究（Development and Validation of a Deep Learning Algorithm forDetection of Diabetic Retinopathy in Retinal Fundus Photographs）。神经架构搜索（ArchitectureSearch）
+
+
+
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734471&idx=1&sn=be4cd4b85ed84f997baf4c88543dc3f4&chksm=871b3bf9b06cb2ef94ea9531ec74fef14b8db5d1996b0cf0c9bd31ca3594ef1f54feaea17109&mpshare=1&scene=1&srcid=1219LLaCfSlLMQtKpDfPivRB#rd]
+
+分布式TensorFlow入坑指南：从实例到代码带你玩转多机器深度学习
+
+文字的相似度 
+
+https://blog.csdn.net/miner_zhu/article/details/81566456
